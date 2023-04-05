@@ -1,0 +1,80 @@
+body{
+    padding: 150px;
+    bottom: 10px;
+    background-color: #555353;
+}
+
+
+h1{
+    font-size: 70px;
+    font-family: cursive;
+}
+
+.block{
+  
+    
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    width: 1200px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px 10px #818181;
+}
+
+img{
+    
+    height:400px;
+    width: 1200px;
+    border-radius: 25px;
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    font-variant: inherit;
+    box-shadow: 5px 7px 15px 10px #898383;
+    color: #555353;
+    background-color: antiquewhite;
+}
+
+.block2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 700px;
+    width: 1200px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px 10px #818181;
+}
+
+.block3{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 700px;
+    width: 1200px;
+    border-radius: 25px;
+    box-shadow: 0 0 30px 10px #818181;
+    
+}
+
+.garni{
+    height: 700px;
+    width: 1200px;
+    border-radius: 25px;
+   
+}
+
+.xaruyk{
+    height: 700px;
+    width: 1200px;
+    border-radius: 25px;;
+}
+
+.toobe{
+   
+    height: 550px ;
+    width: 1200px; 
+    border: 12px solid #c50808;
+    border-radius: 25px;
+    box-shadow:0 0 15px 10px #fa8a01;
+}
